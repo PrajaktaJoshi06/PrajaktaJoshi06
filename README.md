@@ -1,3 +1,6 @@
+Hi 👋, I'm Prajakta  
+🧠 A Data Scientist Crafting AI & ML Solutions to Drive Real-World Innovation and Impact! 🤖
+
 ## Hi there 👋
 
 <!--
