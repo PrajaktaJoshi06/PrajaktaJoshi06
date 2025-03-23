@@ -1,19 +1,19 @@
-Hi 👋, I'm Prajakta  
-🧠 A Data Scientist Crafting AI & ML Solutions to Drive Real-World Innovation and Impact! 🤖
+<h1 align="center"><b>Hi 👋, I'm Prajakta</b></h1>
 
-## Hi there 👋
+<h3 align="center">🧠 A Data Scientist Crafting AI & ML Solutions to Drive Real-World Innovation and Impact! 🤖</h3>
 
-<!--
-**PrajaktaJoshi06/PrajaktaJoshi06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📌 About Me  
 
-Here are some ideas to get you started:
+<img align="right" src="https://user-images.githubusercontent.com/125878564/258871853-20e24ac8-354d-4ec0-8f25-ef158aec9420.gif" width="190" />  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📖 Data Science graduate from the University at Buffalo - SUNY.
+
+💡 Passionate about leveraging Data Science, ML, and AI to build impactful, data-driven solutions. 
+
+🤝 Open to collaborating on cutting-edge AI/ML or Data Science projects.  
+
+🌱 Currently exploring LLMs, Generative AI, and advancements in AI-driven automation. 
+
+💬 Ask me about Python, SQL, ML algorithms, Data Science Pipelines, Data Visualization Tools, AWS and Azure.  
+
+⚡ Fun fact: My ML models improve over time, but my sleep schedule doesn’t! 🤖💤  
